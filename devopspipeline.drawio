@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T04:10:57.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.6.4" etag="Sh1unRnxrEoz_obJYdF-" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T04:18:08.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XsbMzsDlxY0PPOfNXqsV" version="24.6.4" type="github">
   <diagram name="Page-1" id="PwzabdTHxA4PKRBSlwVq">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-2" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-4" value="Maven" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="265" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-6" value="Sonar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="265" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-8" value="Artifactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-10" value="DockerHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-11" value="Helm package Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="490" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-13" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="640" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-14" value="Kubernetes(Service Mesh)(istio)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-15" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="800" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="43Ssfmsxa7v0bwQvrQXF-16" value="APIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
