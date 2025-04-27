@@ -12,5 +12,5 @@ ARM/Biceps
 Docker
 Helm
 Service Mesh (istio 1.21.0)
-Kubernetes
+Kubernetes 1.30
 Oautho2.0
